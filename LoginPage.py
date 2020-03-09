@@ -2,8 +2,6 @@ import httplib
 import socket
 import sys
 
-    TGREEN =  '\033[32m' # text vert
-
 try:
     print "                                                                                                                                                "
     print "               .---..---.                                                                                                                       "
