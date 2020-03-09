@@ -5,8 +5,6 @@ import sys
     TGREEN =  '\033[32m' # text vert
 
 try:
-    print "\033[32m Admin Login page finder                                                                                                                "
-    print(TGREEN)
     print "                                                                                                                                                "
     print "               .---..---.                                                                                                                       "
     print "     .     .--.|   ||   |      __.....__                        .              __.....__     /|              __.....__           __.....__      "
